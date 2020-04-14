@@ -43,4 +43,6 @@ public class ApplicationsApiController {
     public String deleteJobApplication(JobAppEntity jobAppEntity){
         return null;
     }
+
+
 }

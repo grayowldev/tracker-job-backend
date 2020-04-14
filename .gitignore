@@ -1,6 +1,7 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
+/src/main/java/com/trackerjob/trackerjob/service/FirebaseInitialize.java
 !**/src/main/**
 !**/src/test/**
 
@@ -32,3 +33,5 @@ build/
 
 
 /serviceAccountKey.json
+/src/main/java/com/trackerjob/trackerjob/service/FirebaseInitialize.java
+
